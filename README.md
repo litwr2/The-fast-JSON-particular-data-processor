@@ -44,3 +44,5 @@ The number of records in the log-files are above 10000.
 
 The program _serv-list2.cpp_ uses a forward list to make the task.  The program _serv-map.cpp_ does the same but uses a map instead.  The program _generate-log-files.cpp_ may be used to generate the random log-files.
 
+Use _make_ to build programs, _make test_ to check them, _make clean_ to clear the directory.
+
