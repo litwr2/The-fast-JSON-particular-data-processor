@@ -7,13 +7,12 @@ We have a directory containing N log-files (for example, 10) named _fileM.log_. 
 	"ts_fact" : 1489494303,
 	"fact_name": "fact1",
 	"actor_id": 111222,
-   
-	"props":
-	{
-   	"prop1": 11,
-   	"prop2": 22,
-	...
-   	"prop10": 1010,
+        "props":
+        {
+        "prop1": 11,
+        "prop2": 22,
+   ...
+        "prop10": 1010,
 	}
 }
 ```
